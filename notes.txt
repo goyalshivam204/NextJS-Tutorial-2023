@@ -1,1 +1,4 @@
 NextJS Notes for 2023 
+
+=> Read for documentation about NextJS
+=> Choose Layout you want to either App Router or pages layout ..
